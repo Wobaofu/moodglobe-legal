@@ -23,7 +23,7 @@ Wrecked 支持手动切换深色和浅色模式，您可以在主页底部的切
 ### 📩 联系与反馈
 如果您在使用过程中遇到 Bug 或有更好的功能建议，欢迎通过以下方式联系开发者：
 
-* **Email:** [填入你的邮箱]
+* **Email:** stevenxing77@gmail.com
 * **GitHub Issues:** [https://github.com/Wobaofu/moodglobe-legal/issues](https://github.com/Wobaofu/moodglobe-legal/issues)
 
 ---
